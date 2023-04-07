@@ -2,7 +2,7 @@
 
 /**
  * free_listint2 - Funtions that free a list head = NULL
- *By Lukmon
+ * By Lukmon
  * @head: pointer
  *
  *Return: nothing
